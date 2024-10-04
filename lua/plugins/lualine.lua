@@ -3,8 +3,8 @@ return {
   config = function()
     require('lualine').setup({
       option = {
-         theme = 'everforest',
-        }
+        theme = 'everforest',
+      }
     })
   end
 }
